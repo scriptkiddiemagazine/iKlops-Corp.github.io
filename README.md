@@ -1,2 +1,3 @@
-# iKlops Corporate Site — Blade Runner style
-Hidden hooks in PDF metadata, EXIF, DNS report, and HTML comments.
+# iKlops Corporate Site
+![GitHub Pages](https://github.com/scriptkiddiemagazine/iKlops-Corp.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+
